@@ -1,0 +1,7 @@
+Start
+Let x = random number
+let sum = 0
+
+while x < = 0
+  let sum = x + sum
+  read sum
